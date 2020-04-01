@@ -1,0 +1,13 @@
+https://nodejs.org/en/knowledge/HTTP/servers/how-to-create-a-HTTPS-server/
+
+https://www.atlassian.com/git/tutorials/install-git
+
+https://stackoverflow.com/questions/15536872/nodejs-npm-global-config-missing-on-windows/22847156
+
+https://github.com/sureshavlm/httpdemonew.git
+
+https://nodejs.org/api/fs.html#fs_fs_readfile_path_options_callback
+
+default global location in Windows:
+
+%AppData%\npm\node_modules

@@ -1,0 +1,19 @@
+ https://mongolab-demo.herokuapp.com/
+
+https://github.com/sureshavlm/mongolab-demo
+
+https://marketplace.eclipse.org/content/nodeclipsegithubio
+
+https://awesome-socket-io.herokuapp.com/
+
+Socket chat code:
+
+https://github.com/sureshavlm/socketio-demo
+
+https://redislabs.com/blog/redis-on-windows-8-1-and-previous-versions/
+
+https://suresh-products.herokuapp.com/products/all
+
+https://nodejs.org/fr/docs/guides/nodejs-docker-webapp/
+
+https://docs.docker.com/toolbox/toolbox_install_windows/
